@@ -1,1 +1,1 @@
-[GhosType 👻](https://github.com/EtherD3v/GhosType/blob/main/public/img/GhosType.png)
+![GhosType 👻](https://github.com/EtherD3v/GhosType/blob/main/public/img/GhosType.png)
